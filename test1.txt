@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E84F-2A68
+
+ Directory of C:\Users\Harshitha\Desktop\Manu\Myproject
+
+15-12-2023  11:37    <DIR>          .
+15-12-2023  11:37    <DIR>          ..
+15-12-2023  11:37                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  49,014,710,272 bytes free
